@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/menxit/easy-rsa/issues"
   },
-  "homepage": "https://github.com/menxit/easy-rsa#readme"
+  "homepage": "https://github.com/menxit/easy-rsa#readme",
+  "dependencies": {
+    "ursa": "^0.9.4"
+  }
 }
